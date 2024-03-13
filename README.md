@@ -7,6 +7,8 @@ Esta promise deve percorrer todos os usuários e retornar o primeiro que tenha o
 Se não encontrar nenhum dado, o código deve tratar um erro para cair no catch.
 Após coletar o resultado pesquisado no array, exiba esse usuário.
 Você será avaliado pela simplicidade do código.
+
+
 Desafio 2: HTML + CSS
 Neste desafio, você precisará criar uma tela de gestão de motoboys, utilizando HTML e CSS. A tela deve permitir:
 
